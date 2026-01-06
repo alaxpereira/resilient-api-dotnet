@@ -1,4 +1,4 @@
-# 🚀 ResilientApi — Minimal API com Resiliência e Observabilidade
+# 🚀 Minimal API com Resiliência e Observabilidade
 
 Projeto demonstrativo de uma Minimal API moderna em ASP.NET Core focada em resiliência, boas práticas de consumo HTTP e observabilidade, simulando cenários reais de falhas em serviços externos.
 
